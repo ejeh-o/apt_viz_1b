@@ -1,0 +1,16 @@
+{
+  "name": "apt-viz-1b",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build --base ./",
+    "preview": "vite preview --host 127.0.0.1"
+  },
+  "dependencies": {
+    "vite": "^8.0.14",
+    "three": "^0.171.0"
+  },
+  "devDependencies": {}
+}
